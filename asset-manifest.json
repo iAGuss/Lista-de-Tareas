@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lista-de-tareas-Gus/static/css/main.ceae2233.css",
-    "main.js": "/lista-de-tareas-Gus/static/js/main.940bfdad.js",
-    "static/js/787.ddc9eb34.chunk.js": "/lista-de-tareas-Gus/static/js/787.ddc9eb34.chunk.js",
-    "index.html": "/lista-de-tareas-Gus/index.html",
-    "main.ceae2233.css.map": "/lista-de-tareas-Gus/static/css/main.ceae2233.css.map",
-    "main.940bfdad.js.map": "/lista-de-tareas-Gus/static/js/main.940bfdad.js.map",
-    "787.ddc9eb34.chunk.js.map": "/lista-de-tareas-Gus/static/js/787.ddc9eb34.chunk.js.map"
+    "main.css": "/static/css/main.ceae2233.css",
+    "main.js": "/static/js/main.bacdf6ce.js",
+    "static/js/787.ddc9eb34.chunk.js": "/static/js/787.ddc9eb34.chunk.js",
+    "index.html": "/index.html",
+    "main.ceae2233.css.map": "/static/css/main.ceae2233.css.map",
+    "main.bacdf6ce.js.map": "/static/js/main.bacdf6ce.js.map",
+    "787.ddc9eb34.chunk.js.map": "/static/js/787.ddc9eb34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ceae2233.css",
-    "static/js/main.940bfdad.js"
+    "static/js/main.bacdf6ce.js"
   ]
 }
